@@ -1,3 +1,3 @@
 ```
-Makine Laboratuvarı dersinde hazırladığım raporlar ve İmal Usülleri dersinde hazırladığım rapor
+Makine Laboratuvarı dersinde hazırladığım deney raporları ve İmal Usülleri dersinde hazırladığım rapor
 ```
