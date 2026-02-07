@@ -1,2 +1,3 @@
-# Laboratuvar-Deney-Raporlar-
-# Makine Laboratuvarı dersinde yaptığımız deneylerin raporları
+```
+Makine Laboratuvarı dersinde yaptığımız deneylerin raporları
+```
